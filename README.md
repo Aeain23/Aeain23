@@ -18,11 +18,13 @@ Experienced in Clean Architecture, REST API integration, and Agile development.
 🧠 State Management & Architecture
 ![Bloc](https://img.shields.io/badge/BLoC-5A29E4?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/River-pod)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A0A0A?style=for-the-badge)
 
 🔌 Backend & Integration
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Static Badge](https://img.shields.io/badge/one-signal)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 🛠 Tools & DevOps
@@ -52,7 +54,7 @@ Experienced in Clean Architecture, REST API integration, and Agile development.
 
 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aeain23&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AEainDra&theme=python-dark&hide_border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeain23&layout=compact&theme=tokyonight)
 
 
